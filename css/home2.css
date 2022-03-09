@@ -1,0 +1,70 @@
+body{
+      background-image: url("C:/Users/arvap/Desktop/grip/images/bg2.jpg");
+      background-size: cover;
+    }
+
+h2{
+      position: absolute;
+      display: inline-block;
+      top: 20%;
+      left: 57%;
+      right: 10%;
+      text-align: center;
+      margin-right: 30px;
+      font-family: "Segoe Print";
+      font-size: 32px;
+}
+
+
+.donate{
+      position: absolute;
+      display: inline-block;
+      top: 55%;
+      left: 63%;
+      width: 220px;
+     height: 80px;
+      background: #BC9476;
+      display: flex;
+     justify-content: center;
+      align-items: center;
+      margin-top: 100px;
+      border-radius: 20px;
+}
+
+nav{
+      color: white;
+      margin: auto;
+      text-align: right;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding: 5px;
+}
+
+.dropbtn  {
+      margin: auto;
+      align-content: right;
+      display: inline-block;
+      border: black;
+      border-style: groove;
+      border: 2px solid black;
+      border-radius: 10px;
+      height: 300%;
+      width: 100%;
+      text-align: center;
+      background-color: transparent;
+      font-family: "Times New Roman";
+      font-size: 20px;
+      margin: 5px;
+      margin-bottom: 20px;
+      margin-top: 20px;
+      padding-right: 25px;
+      padding-left: 25px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+}
+.dropdown:hover .dropbtn {background-color: #D0B49F;}
+
+
